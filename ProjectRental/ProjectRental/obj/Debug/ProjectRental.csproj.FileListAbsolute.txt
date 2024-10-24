@@ -1,0 +1,11 @@
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\bin\Debug\ProjectRental.exe.config
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\bin\Debug\ProjectRental.exe
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\bin\Debug\ProjectRental.pdb
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.csproj.AssemblyReference.cache
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.Form1.resources
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.Properties.Resources.resources
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.csproj.GenerateResource.cache
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.csproj.CoreCompileInputs.cache
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.exe
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.pdb
+C:\Users\dicky\source\repos\ProjectRental\ProjectRental\obj\Debug\ProjectRental.Form2.resources
